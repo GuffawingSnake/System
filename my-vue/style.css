@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f7fa;
+}
+
+#app {
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+
+.survey-container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.main-content {
+    text-align: center;
+    padding: 40px;
+}
+
+.button-container {
+    margin-top: 30px;
+}
+
+.el-select {
+    width: 100%;
+}
+
+.el-divider {
+    margin: 24px 0;
+} 

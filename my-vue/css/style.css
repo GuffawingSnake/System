@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+
+.el-header {
+    padding: 0;
+}
+
+.el-main {
+    padding-top: 40px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.button-group {
+    margin-top: 30px;
+}
+
+.el-button {
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+} 
